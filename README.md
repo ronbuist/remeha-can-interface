@@ -23,6 +23,6 @@ I have also added some information on how to configure Home Assistant to get the
 For Dutch readers: I have already written a few things about this on [this forum message on circuitsonline.net](https://www.circuitsonline.net/forum/view/message/2502136#2502136).
 
 # Disclaimer
-Nothing described here is in any way approved or endorsed by Remeha. Connecting anything to the boiler could have unexpected results. I have not encountered any issues, but there is no public documentation by Remeha that states that what is described here, is possible and can be done without any consequences.
+Nothing described here is in any way approved or endorsed by Remeha. Connecting anything to the boiler could have unexpected results. I have not encountered any issues, but there is no public documentation by Remeha that states that what is described here, is possible and can be done without any consequences. If you decide to use the methods and software described here, you are doing so on your own risk!
 
 _**All the findings described here are my interpretations and are the result of reverse engineering of the data. The scripts and documentation on this site come with ABSOLUTELY NO WARRANTY!**_
