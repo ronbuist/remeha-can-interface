@@ -24,4 +24,6 @@ how everything is set up in Home Assistant. I have a week off from work and I'm 
 
 # Documentation
 
-* [Hardware](doc/hardware.md)
+* [Hardware](doc/hardware.md). Description of the hardware I'm using.
+* [Raspberry Pi setup](doc/raspberry.md). Setting up the Raspberry Pi to receive data from the Calenta Ace's CAN bus.
+* [Analysis](doc/analysis.md). How I found the information I wanted from the data stream coming from the CAN bus.
