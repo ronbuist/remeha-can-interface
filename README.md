@@ -15,13 +15,9 @@ working solution connecting to the boiler and feeding data into Home Assistant.
 Unfortunately, I couldn't find anything... 
 
 So, I set out to find it out myself. A CAN bus? I had never heard of such a thing, but hey, how hard can it be? It turned out not to be exactly trivial,
-but I did manage to reach the goals I had set for myself. I'm planning on describing the process and the eventual solution in more detail, but for now
-here is the current situation: two BASH shell scripts that I'm running on a Raspberry Pi to generate a JSON file with some data from the CAN bus.
+but I did manage to reach the goals I had set for myself. This Github page contains the scripts I created, as well as some documentation describing how
+I got to this result. All documentation can be found on [the Wiki](https://github.com/ronbuist/remeha-can-interface/wiki).
+
+I have also added some information on how to configure Home Assistant to get the data from the boiler.
 
 For Dutch readers: I have already written a few things about this on [this forum message on circuitsonline.net](https://www.circuitsonline.net/forum/view/message/2502136#2502136).
-I'm going to translate that into English, add some new things I found out since writing that and also explain a bit more about the hardware I'm using and
-how everything is set up in Home Assistant. I have a week off from work and I'm hopeful I can have it finished before returning to work...
-
-# Documentation
-
-All documentation can be found on [the Wiki](https://github.com/ronbuist/remeha-can-interface/wiki).
