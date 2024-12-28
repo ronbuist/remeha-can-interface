@@ -21,3 +21,7 @@ here is the current situation: two BASH shell scripts that I'm running on a Rasp
 For Dutch readers: I have already written a few things about this on [this forum message on circuitsonline.net](https://www.circuitsonline.net/forum/view/message/2502136#2502136).
 I'm going to translate that into English, add some new things I found out since writing that and also explain a bit more about the hardware I'm using and
 how everything is set up in Home Assistant. I have a week off from work and I'm hopeful I can have it finished before returning to work...
+
+# Documentation
+
+* [Hardware](doc/hardware.md)
