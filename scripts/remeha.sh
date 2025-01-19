@@ -63,6 +63,7 @@ while read logline; do
         pressureint=$(printf "%02d" $pressureint)
         pressure=${pressureint:0:(-1)}.${pressureint:(-1):1}
       else
+        ignore=1
         toggle_indicator=${line:8:8}
         if [[ "$toggle_indicator" == "41 3F 50" ]]; then
           toggle="1"
